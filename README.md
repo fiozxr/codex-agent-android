@@ -16,6 +16,9 @@ You have two options:
 - A stable internet connection ( ~700MB )
 
 ---
+# Screenshot:
+![codex](/Screenshot_2026-07-22-08-06-39-340_com.termux.jpg)
+---
 
 ## ⚡ Option A: Quick Setup (setup.sh)
 
